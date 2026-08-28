@@ -17,6 +17,6 @@ public class Question7 {
         double degreesFahrenheit = (degreesCelsius * (9.0/5.0)) + 32;
 
         //Displaying the temperature in degrees celsius and fahrenheit
-        System.out.println(degreesCelsius + " degrees celsius in degrees fahrenheit is " + degreesFahrenheit);
+        System.out.println(degreesCelsius + " degrees celsius in degrees fahrenheit is " + degreesFahrenheit); // This sounds better
     }
 }

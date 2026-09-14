@@ -1,0 +1,3 @@
+The sum is 166
+The largest number is 64
+The smallest number is 4

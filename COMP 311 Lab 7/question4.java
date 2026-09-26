@@ -16,6 +16,7 @@ public class question4 {
 
             while (console.hasNext()){
                 // Counting the number of lines in story.txt
+                console.nextLine();
                 lineCount ++;
             }
             System.out.println("The number of lines in story.txt is " + lineCount);

@@ -19,6 +19,12 @@ public class question8 {
             writer.println("78");
             writer.println("32");
             writer.println("21");
+            writer.println("15");
+            writer.println("98");
+            writer.println("43");
+            writer.println("9");
+            writer.println("81");
+            writer.println("2");
             writer.close();
 
             // Creating a sacnner

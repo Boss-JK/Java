@@ -20,7 +20,7 @@ public class question5 {
                 console.nextLine();
                 wordCount ++;
             }
-            System.out.println("The number of lines in story.txt is " + wordCount);
+            System.out.println("The number of words in story.txt is " + wordCount);
             System.out.println("Successful");
             console.close();
         } catch (Exception e) {
